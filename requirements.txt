@@ -1,0 +1,8 @@
+Setup a new profile on Chrome and install metamask and add as much accounts you want it
+
+Python - https://www.python.org/downloads/
+Install Required Python Packages:
+pip install selenium pyfiglet
+
+Download ChromeDriver
+https://googlechromelabs.github.io/chrome-for-testing/#stable
